@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Script and Server folder for deploy front projects",
+  "scripts": {
+    "start": "node run-fronts-angular.js",
+    "test": "node run-test-fronts.js"
+  },
+  "devDependencies": {
+    "concurrently": "7.0.0",
+    "inquirer": "8.0.0",
+    "node-fetch": "2.6.7",
+    "ora": "6.3.0",
+    "ora-classic": "5.4.2",
+    "prompts": "2.4.2"
+  }
+}

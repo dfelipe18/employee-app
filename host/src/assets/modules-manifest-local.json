@@ -1,0 +1,9 @@
+{
+  "mf-employee": {
+    "remoteEntry": "http://localhost:6001/remoteEntry.js",
+    "exposedModule": "./EmployeeManagementModule",
+    "routePath": "",
+    "ngModuleName": "EmployeeManagementModule",
+    "isPublic": true
+  }
+}
